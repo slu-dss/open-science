@@ -1,4 +1,4 @@
-# open-science-framework v0.1.0
+# open-science v0.1.0
 
 * Add lesson template files
 * Add basic overview slides

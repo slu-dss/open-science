@@ -1,4 +1,4 @@
-# open-science-framework Index
+# open-science Index
 
 ## Key Topics
 
