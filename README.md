@@ -1,22 +1,19 @@
-# open-science-framework <img src="/img/logo.png" align="right" />
-[![](https://img.shields.io/badge/lesson%20status-stable-brightgreen.svg)](https://github.com/slu-dss/open-science-framework/)
-[![](https://img.shields.io/github/release/slu-dss/open-science-framework.svg?label=version)](https://github.com/slu-dss/open-science-framework/releases)
-[![](https://img.shields.io/github/last-commit/slu-dss/open-science-framework.svg)](https://github.com/slu-dss/open-science-framework/commits/master)
-[![Travis-CI Build Status](https://travis-ci.org/slu-dss/open-science-framework.svg?branch=master)](https://travis-ci.org/slu-dss/open-science-framework)
-[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/slu-dss/open-science-framework?branch=master&svg=true)](https://ci.appveyor.com/project/chris-prener/open-science-framework)
+# open-science <img src="/img/logo.png" align="right" />
+[![](https://img.shields.io/badge/lesson%20status-stable-brightgreen.svg)](https://github.com/slu-dss/open-science/)
+[![](https://img.shields.io/github/release/slu-dss/open-science.svg?label=version)](https://github.com/slu-dss/open-science/releases)
+[![](https://img.shields.io/github/last-commit/slu-dss/open-science.svg)](https://github.com/slu-dss/open-science/commits/master)
+[![Travis-CI Build Status](https://travis-ci.org/slu-dss/open-science.svg?branch=master)](https://travis-ci.org/slu-dss/open-science)
+[![AppVeyor Build Status](https://ci.appveyor.com/api/projects/status/github/slu-dss/open-science?branch=master&svg=true)](https://ci.appveyor.com/project/chris-prener/open-science)
 
 ## Lesson Overview
-This repository contains some of the lesson materials used as part of our Open Science Framework brownbag presentation. Other materials are contained in the corresponding [OSF repository](https://osf.io/wv7cb/).
+This repository contains the lesson materials used in the open science talk we gave at the SLU Research event on September 11 and 12, 2019.
 
 ### Lesson Objectives
 By the end of this lesson, learners should be able to:
 
 1. Describe key features of open science
 2. Discuss the phenomenon of the so-called replication "crisis" 
-4. Descibe how the Open Science Framework helps researchers produce more open research products
-
-### Lesson Resources
-* The [lesson slides](https://slu-dss.github.io/open-science-framework/) provide an overview of the replication crisis and what open science entails.
+4. Explain how open science practices can help address issues confronting science, including around replication
 
 ### Extra Resources
 * Baker, Monya. 2016. "1,500 scientists lift the lid on reproducibility." *Nature* 533(7604). ([Link](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970))
