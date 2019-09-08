@@ -11,6 +11,8 @@ os:
   - linux
   - osx
 
+dist: xenial
+
 matrix:
   fast_finish: true
   allow_failures:
