@@ -30,6 +30,8 @@ You can contact Chris at:
 
 **Matt Schuelke, Ph.D.** is...
 
+You can contact Matt at:
+* Email - [matthew.schuelke@slu.edu](mailto:matthew.schuelke@slu.edu)
 
 ---
 
@@ -70,6 +72,21 @@ knitr::include_graphics("assets/GertlerEtAl_2018_1.jpg")
 ```{r add-replication-img-4, echo=FALSE, out.width = "60%", fig.align = "center"}
 knitr::include_graphics("assets/GertlerEtAl_2018_2.jpg")
 ```
+
+---
+
+# Public Access Pressures on PIs
+
+* In 2003, NIH adopted a formal policy on sharing research data:
+
+> Expects investigators seeking more than $500K in direct support in any given year to submit a data sharing plan with their application or to indicate why data sharing is not possible.	
+
+* NIH also expects publications to be submitted to PubMed Central upon publication.
+* NSF also has policies on sharing data and software from funded work:
+
+> b.	Investigators are expected to share with other researchers, at no more than incremental cost and within a reasonable time, the primary data, samples, physical collections and other supporting materials created or gathered in the course of work under NSF grants. Grantees are expected to encourage and facilitate such sharing.
+
+> c.	Investigators and grantees are encouraged to share software and inventions created under the grant or otherwise make them or their products widely available and usable.
 
 ---
 
@@ -356,3 +373,13 @@ This is one way we promote equity and inclusion in data science - you do not nee
 ---
 
 # useR! 2020
+July 7-10, Marriott St. Louis Grand
+
+```{r add-useR-image, echo=FALSE}
+knitr::include_graphics("assets/useR_hexBanner.png")
+```
+
+---
+class: inverse, center, middle
+
+# Thank You for Coming!
