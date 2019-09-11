@@ -25,6 +25,16 @@ By the end of this lesson, learners should be able to:
 * [Open Science Framework](http://osf.io)
 * [Zenodo](https://zenodo.org)
 
+### Examples
+Chris’s street barriers research (see (https://chris-prener.github.io/barriers/) uses this framework for storing research data, analysis code, and results as well as a pre-print of our recently released findings.
+
+* [SocArXiv Pre-Print](https://osf.io/preprints/socarxiv/2wext/)
+* [Open Science Framework Repository](https://osf.io/sxuze/)
+* [GitHub Repository](https://github.com/PrenerLab/Barriers-NhoodPaper)
+* Barriers Data:
+    * [GitHub](https://github.com/chris-prener/barriers-data)
+    * [Zenodo](https://zenodo.org/record/2575051#.XKOvqS2ZNQI)
+
 ### Extra Resources
 * Baker, Monya. 2016. "1,500 scientists lift the lid on reproducibility." *Nature* 533(7604). ([Link](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970))
 * Gertler, Paul, Sebastian Galiani and Mauricio Romero. 2018. "How to make replication the norm." *Nature* 554:417-419. ([Link](https://www.nature.com/articles/d41586-018-02108-9))
