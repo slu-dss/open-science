@@ -15,10 +15,20 @@ By the end of this lesson, learners should be able to:
 2. Discuss the phenomenon of the so-called replication "crisis" 
 4. Explain how open science practices can help address issues confronting science, including around replication
 
+### Services Discussed
+
+* [`R`](https://www.r-project.org)
+* [Python](https://www.python.org)
+* [Tidyverse](https://www.tidyverse.org)
+* [GitHub](http://github.com)
+* [GitLab](http://gitlab.com)
+* [Open Science Framework](http://osf.io)
+* [Zenodo](https://zenodo.org)
+
 ### Extra Resources
 * Baker, Monya. 2016. "1,500 scientists lift the lid on reproducibility." *Nature* 533(7604). ([Link](https://www.nature.com/news/1-500-scientists-lift-the-lid-on-reproducibility-1.19970))
 * Gertler, Paul, Sebastian Galiani and Mauricio Romero. 2018. "How to make replication the norm." *Nature* 554:417-419. ([Link](https://www.nature.com/articles/d41586-018-02108-9))
-* Woelfle, Michael, Piero Olliaro, and Matthew H. Todd. 2011. "". *Nature Chemistry* 3:745–748. ([Link](https://www.nature.com/articles/nchem.1149))
+* Woelfle, Michael, Piero Olliaro, and Matthew H. Todd. 2011. "Open science is a research accelerator". *Nature Chemistry* 3:745–748. ([Link](https://www.nature.com/articles/nchem.1149))
 
 ## Contributor Code of Conduct
 Please note that this project is released with a [Contributor Code of Conduct](.github/CODE_OF_CONDUCT.md). By participating in this project you agree to abide by its terms.
