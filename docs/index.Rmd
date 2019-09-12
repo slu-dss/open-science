@@ -344,6 +344,8 @@ knitr::include_graphics("assets/workflow.png")
 
 # Upcoming Events
 
+Website - https://slu-dss.github.io/
+
 ### DSS 08: Data Visualization in `R`
 
 * Session 02 - September 18th
@@ -356,7 +358,7 @@ knitr::include_graphics("assets/workflow.png")
 
 ### Other DSS Events this Fall
 
-* Brownbag, Git and GitHub - September 12th (**tomorrow!!**)
+* Brownbag, Git and GitHub - September 12th (**today!!**)
 * Brownbag, Open Science Framework - October 10th
 
 *Both sessions are in 3600 Morrissey from 2:15pm-3:45pm*
